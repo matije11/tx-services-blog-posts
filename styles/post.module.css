@@ -1,0 +1,18 @@
+.listItem {
+  background-color: #e4e3e3;
+  color: #333;
+  border-radius: 10px;
+  padding: 20px 30px;
+  margin: 10px 10px;
+  list-style: none;
+}
+
+.listItem h2 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.listItemHeader {
+  display: flex;
+  justify-content: space-between;
+}

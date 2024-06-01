@@ -1,0 +1,21 @@
+.commentInfo {
+  margin-left: 20px;
+}
+
+.commentContainer {
+  margin: 15px;
+  background-color: #fc52521f;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.commentHeader {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+
+.commentItemHeader {
+  display: flex;
+  justify-content: space-between;
+}
